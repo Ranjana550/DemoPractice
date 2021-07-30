@@ -4,7 +4,7 @@ int main(){
     int a, b, sum;
     cin>>a>>b;
     sum = a+b;
-    cout<<"This is sum";
+    cout<<"This is sum of two numbers";
     cout<<sum;
 
     return 0;
